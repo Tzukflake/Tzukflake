@@ -1,16 +1,15 @@
-## Hi there 👋
+🌟 André Löfvenius | DevOps & Cloud Enthusiast
 
-<!--
-**Tzukflake/Tzukflake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate about leveraging CI/CD pipelines, Terraform, and Google Cloud Platform to automate and optimize infrastructure deployments. Experienced in managing complex infrastructure setups with a focus on scalability, reliability, and efficiency.
 
-Here are some ideas to get you started:
+🔧 Skilled in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud Infrastructure: Google Cloud Platform (GCP), Azure
+DevOps Tools: Terraform, GitHub Actions, CI/CD
+Software Development: Python, SQL, C/C++
+Automation & Infrastructure as Code (IaC)
+🚀 Currently working on projects that streamline cloud deployments, improve infrastructure management, and drive operational efficiency through automation.
+
+🌍 Always open to collaborating on DevOps, cloud, and data management projects.
+
+📫 Connect with me on LinkedIn
